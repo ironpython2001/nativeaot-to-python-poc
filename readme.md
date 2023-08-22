@@ -6,12 +6,12 @@ steps to compile
 2. Inside \bin\Release\net7.0\win-x64\publish\ you should find the *.dll file.
 
 3. To use in dotnet project
-	a. copy the dll to "DemoNativeAotDll\bin\Debug\net7.0\" 
-	b. run the demonativeaotdll project
+	* a. copy the dll to "DemoNativeAotDll\bin\Debug\net7.0\" 
+	* b. run the demonativeaotdll project
 
 5. To use in python project 
-	a. copy the dll to "PythonDemoNativeAotDll\"
-	b. run the PythonDemoNativeAotDll python file
+	* a. copy the dll to "PythonDemoNativeAotDll\"
+	* b. run the PythonDemoNativeAotDll python file
 
 <img width="594" alt="image" src="https://github.com/ironpython2001/nativeaot-to-python-poc/assets/1304388/bd10fc81-75cf-4fb4-8f9a-f0b0b7f990ca">
 
