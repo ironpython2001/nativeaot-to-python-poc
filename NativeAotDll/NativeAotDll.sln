@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeAotDll", "NativeAotDll.csproj", "{F0E49591-AC96-4C83-A65E-7EA5BC6F92E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D712955F-97D9-4CFE-B4E3-EAE25B3810FD}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoNativeAotDll", "..\DemoNativeAotDll\DemoNativeAotDll.csproj", "{B37709EF-65FD-40A3-B04E-70893EA73A9C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonDemoNativeAotDll", "..\PythonDemoNativeAotDll\PythonDemoNativeAotDll.pyproj", "{4507DCB7-A906-4328-B979-803D1E1AAAC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E49591-AC96-4C83-A65E-7EA5BC6F92E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E49591-AC96-4C83-A65E-7EA5BC6F92E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E49591-AC96-4C83-A65E-7EA5BC6F92E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E49591-AC96-4C83-A65E-7EA5BC6F92E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B37709EF-65FD-40A3-B04E-70893EA73A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37709EF-65FD-40A3-B04E-70893EA73A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37709EF-65FD-40A3-B04E-70893EA73A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37709EF-65FD-40A3-B04E-70893EA73A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4507DCB7-A906-4328-B979-803D1E1AAAC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4507DCB7-A906-4328-B979-803D1E1AAAC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79283F2E-3EC6-4F0C-B575-975ECF2A7FFD}
+	EndGlobalSection
+EndGlobal
