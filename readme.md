@@ -5,11 +5,11 @@ steps to compile
    dotnet publish -r win-x64 -c Release
 2. Inside \bin\Release\net7.0\win-x64\publish\ you should find the *.dll file.
 
-3. To use in dotnet project 
+3. To use in dotnet project
 	a. copy the dll to "DemoNativeAotDll\bin\Debug\net7.0\" 
 	b. run the demonativeaotdll project
 
-4. To use in python project 
+5. To use in python project 
 	a. copy the dll to "PythonDemoNativeAotDll\"
 	b. run the PythonDemoNativeAotDll python file
 
