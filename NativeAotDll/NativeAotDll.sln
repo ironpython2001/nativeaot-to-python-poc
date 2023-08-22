@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeAotDll", "NativeAotDll.csproj", "{F0E49591-AC96-4C83-A65E-7EA5BC6F92E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D712955F-97D9-4CFE-B4E3-EAE25B3810FD}"
-	ProjectSection(SolutionItems) = preProject
-		readme.md = readme.md
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoNativeAotDll", "..\DemoNativeAotDll\DemoNativeAotDll.csproj", "{B37709EF-65FD-40A3-B04E-70893EA73A9C}"
 EndProject
