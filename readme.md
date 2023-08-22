@@ -13,6 +13,8 @@ steps to compile
 	a. copy the dll to "PythonDemoNativeAotDll\"
 	b. run the PythonDemoNativeAotDll python file
 
+<img width="594" alt="image" src="https://github.com/ironpython2001/nativeaot-to-python-poc/assets/1304388/bd10fc81-75cf-4fb4-8f9a-f0b0b7f990ca">
+
 references:
 
 https://joeysenna.com/posts/nativeaot-in-c-plus-plus
