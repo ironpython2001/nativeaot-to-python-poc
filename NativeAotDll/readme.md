@@ -25,6 +25,8 @@ https://github.com/dotnet/samples/blob/main/core/nativeaot/HelloWorld/README.md
 
 https://github.com/dotnet/samples/blob/main/core/nativeaot/NativeLibrary/README.md
 
+https://mazeez.dev/posts/writing-native-libraries-in-csharp
+
 https://betterprogramming.pub/how-to-create-a-python-wrapper-for-c-c-shared-libraries-35ffefcfc10b
 
 https://realpython.com/python-bindings-overview/

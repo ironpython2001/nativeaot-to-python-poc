@@ -21,6 +21,12 @@ https://joeysenna.com/posts/nativeaot-in-c-plus-plus
 
 https://github.com/Joey0x646576/nativeaot-to-cplusplus-example/blob/main/NativeAot/NativeDll/Library.cs
 
+https://ericsink.com/native_aot/index.html
+
+https://luxeengine.com/csharp-to-native-library/
+
+https://ptupitsyn.github.io/Ignite-Anywhere-With-Net-Native-Aot/
+
 https://stackoverflow.com/questions/75419409/how-to-use-a-dll-generated-in-c-sharp-and-compiled-using-native-aot-in-other-ne
 
 https://github.com/dotnet/samples/blob/main/core/nativeaot/HelloWorld/README.md
